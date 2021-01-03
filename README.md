@@ -1,1 +1,1 @@
-# HTML_CSS_JS
+# About the project which uses the HTML, CSS and Javascript.
